@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bP3sajIbYq0wgFVVdjTzW/hOkks3CbL7fJlKLrgM9CV7wyDBsLOH8GmVODq1J/ucmf7/gppr+34b8+e+vv3k+A==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\Wipro\\WiproConsole\\WiproConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silvano\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
